@@ -1,0 +1,6 @@
+.vscode
+.vs
+
+/auth/bin
+/auth/obj
+/auth/Migrations
